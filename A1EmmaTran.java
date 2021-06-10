@@ -5,9 +5,9 @@ import java.util.Random;
 * 
 * A1EmmaTran
 * COMP 2140 SECTION A01
-* INSTRUCTOR Cuneyt Akcora
+* INSTRUCTOR 
 * ASSIGNMENT Assignment #1
-* @author Emma Tran, 7876069, tranmb@myumanitoba.ca
+* @author Emma Tran
 * @version Monday, Feb 24th
 *
 * PURPOSE: write a Java program that times the execution of three sorting
