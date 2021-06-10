@@ -1,4 +1,5 @@
 # Analyze-various-Sorting-and-Recursion
+Date: February 24, 2020
 
 Java program that times the execution of three sorting algorithms (radix sort, merge sort, quick sort), reports on the run times and whether the algorithms actually sorted the list 
 
